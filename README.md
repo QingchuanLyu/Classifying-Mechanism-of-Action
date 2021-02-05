@@ -4,4 +4,4 @@ This project predicts 206 targets of the Mechanism of Action (MoA) response(s) o
 
 * Investigate and prepare data
 * Train models
-* Thoughts before implementing Random Forest Classifier
+* Thoughts before training models
