@@ -5,3 +5,5 @@ This project predicts 206 targets of the Mechanism of Action (MoA) response(s) o
 * Investigate and explore data
 * Train models: Random Forest, KNN, MLKNN, MLP
 * Thoughts before training models
+
+Reflective essay: https://qingchuanlyu.medium.com/classifying-mechanism-of-action-20fe48b7bf09
